@@ -29,8 +29,8 @@ st.markdown(
         border-color: #00b4d8;
     }
     .project-card img {
-    width: 550px;
-    height: 350px;
+    width: full;
+    height: auto;
     border-radius: 10px;
     margin-bottom: 15px;
     display: block; /* Ensures the image behaves as a block element */
