@@ -318,9 +318,10 @@ with col1:
 
 with col2:
     st.markdown('<div class="title" style="color:#00b4d8;font-size:2.4rem;">Aamna Ashraf Rajput</div>', unsafe_allow_html=True)
+     st.markdown('<div class="title" style="color:gray;font-size:1.5rem;">Developer | Designer</div>', unsafe_allow_html=True)
     st.markdown(
         """
-      <div class="description" style="color:rgb(182, 28, 74);">
+      <div class="description" style="color:black;">
     💻 Passionate <strong>Frontend Developer</strong> with a knack for crafting seamless, user-friendly web experiences.<br><br>
 </div>
         """,
